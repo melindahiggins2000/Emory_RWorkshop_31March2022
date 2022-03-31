@@ -2,7 +2,7 @@
 
 R Workshop for Emory Rollins Mobile Health Collaborative.
 
-Workshop by:
+### Workshop Instructor:
 
 * [Melinda Higgins, PhD](https://melindahiggins.netlify.app/)
     - Director Biostatistics and Data Core
@@ -12,7 +12,7 @@ Workshop by:
 
 -----
 
-SETUP:
+### SETUP:
 
 1. Install R and RStudio
 2. Open RStudio, Click File/New Project - choose new directory, create a New Project and type in the name of your project - this will create a new folder on your computer.
@@ -28,9 +28,9 @@ Right click the link below to save the dataset to your computer.
 
 ### R Code Files:
 
-1. [Part 1:]() Introduction to R Objects
-2. [Part 2:]() Read in data, dplyr data wrangling
-3. [Part 3:]() Make a few simple US maps _(Choropleth Maps)_
+1. [Part 1:](https://github.com/melindahiggins2000/Emory_RWorkshop_31March2022/raw/main/part01.R) Introduction to R Objects
+2. [Part 2:](https://github.com/melindahiggins2000/Emory_RWorkshop_31March2022/raw/main/part02.R) Read in data, dplyr data wrangling
+3. [Part 3:](https://github.com/melindahiggins2000/Emory_RWorkshop_31March2022/raw/main/part03.R) Make a few simple US maps _(Choropleth Maps)_
 4. Part 4: _(if time) - quick Rmarkdown intro_
 
 ### R Packages Needed:
@@ -50,7 +50,7 @@ Some of these slides will be referred to from time to time during the workshop.
 
 -----
 
-Emory Point of Contact:
+### Emory Rollins Mobile Health Collaborative Point of Contact:
 
 * Emelie Coleman:
     - Master of Public Health Candidate

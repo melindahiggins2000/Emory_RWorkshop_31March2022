@@ -28,10 +28,17 @@ Right click the link below to save the dataset to your computer.
 
 ### R Code Files:
 
-1. Part 1: 
-2. Part 2: 
-3. Part 3: 
-4. Part 4: 
+1. [Part 1:]() Introduction to R Objects
+2. [Part 2:]() Read in data, dplyr data wrangling
+3. [Part 3:]() Make a few simple US maps _(Choropleth Maps)_
+4. Part 4: _(if time) - quick Rmarkdown intro_
+
+### R Packages Needed:
+
+* [`readr`](https://readr.tidyverse.org/)
+* [`ggplot2`](https://ggplot2.tidyverse.org/)
+* [`dplyr`](https://dplyr.tidyverse.org/)
+* [`usmap`](https://usmap.dev/)
 
 ### Slides:
 

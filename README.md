@@ -43,12 +43,13 @@ Some of these slides will be referred to from time to time during the workshop.
 
 -----
 
-Emory Point of Contact with Emelie Coleman:
+Emory Point of Contact:
 
-* Master of Public Health Candidate
-* Health Policy and Management
-* Rollins School of Public Health
-* Emory University
-* (770) 833-9288
-* emelie.coleman@emory.edu
+* Emelie Coleman:
+    - Master of Public Health Candidate
+    - Health Policy and Management
+    - Rollins School of Public Health
+    - Emory University
+    - (770) 833-9288
+    - [emelie.coleman@emory.edu](mailto:emelie.coleman@emory.edu)
 
